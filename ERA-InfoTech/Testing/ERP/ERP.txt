@@ -1,0 +1,54 @@
+Note: ERP
+
+
+URL:
+http://10.11.201.70:8085/orbitserp/f?p=999999
+
+
+
+User: ARIFUR
+Password: 123456
+
+
+User: PURBIT
+Password: 123456
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

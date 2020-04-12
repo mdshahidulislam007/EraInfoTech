@@ -1,0 +1,12 @@
+When i tried to connect python code with MongoDB Atlas i faced these problems:
+
+1.client = MongoClient("mongodb+srv://test:test@cluster0-0qpab.mongodb.net/test?retryWrites=true&w=majority")
+ in this line the connection string should be....
+    mongodb atlas->cluster->connect->connect to python application
+        -> select driver==python and proper version
+            ->copy the connection string->replace <password> with your password
+
+2.Then i faced 'dnspython' module is not found
+ To solve this error run 'pip install dnspython' in cmd for download this module
+ after this 'import dns' in your python code
+   

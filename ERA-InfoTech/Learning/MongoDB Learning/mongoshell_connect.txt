@@ -1,0 +1,22 @@
+ #1.For connection:
+ 
+    mongo mongodb+srv://cluster0-0qpab.mongodb.net/test --username test  
+    
+ #2.For Create Database:
+ 
+    use db_name
+    
+ #3.For insert into collection/table:
+ 
+    db.collection_name.insert({"name":"Python Programming"}) 
+
+ #4.For show collection/table:
+ 
+    show collection
+    
+ #5.For find/show data:
+   
+   db.table/collection_name.find()
+    
+    
+ 
